@@ -1,5 +1,9 @@
 @import './base.css';
 
+.home .menu path, .home .close path {
+    fill: var(--color-text-on-primary)
+}
+
 .home .main__heading {
     font-size: 128px;
     font-weight: bold;
